@@ -3,3 +3,5 @@ there are 10 basic commands
 few are 
 git init
 git commit
+changed content
+Modified just now
